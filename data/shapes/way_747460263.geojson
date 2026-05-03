@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-05-03T03:50:21Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/747460263",
+        "bridge": "yes",
+        "electrified": "yes",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "3",
+        "maxspeed": "80",
+        "name": "LRT Jabodebek",
+        "name:en": "Jabodebek LRT",
+        "opening_date": "2023-07-12",
+        "railway": "light_rail",
+        "railway:track_ref": "4",
+        "service": "siding",
+        "usage": "main",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8697709,
+            -6.2454609
+          ],
+          [
+            106.8702088,
+            -6.2457109
+          ],
+          [
+            106.8703181,
+            -6.2457672
+          ],
+          [
+            106.8704296,
+            -6.2458153
+          ],
+          [
+            106.8705508,
+            -6.245856
+          ],
+          [
+            106.8711496,
+            -6.2460197
+          ],
+          [
+            106.8717344,
+            -6.2461798
+          ],
+          [
+            106.8720326,
+            -6.2462364
+          ],
+          [
+            106.8721531,
+            -6.2462555
+          ],
+          [
+            106.872427,
+            -6.2462866
+          ],
+          [
+            106.8725945,
+            -6.2463137
+          ],
+          [
+            106.872859,
+            -6.2463535
+          ]
+        ]
+      },
+      "id": "way/747460263"
+    }
+  ]
+}

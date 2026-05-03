@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-05-03T03:50:21Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1364419054",
+        "bridge": "yes",
+        "electrified": "yes",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "3",
+        "maxspeed": "80",
+        "name": "LRT Jabodebek",
+        "network:wikidata": "Q20427104",
+        "opening_date": "2023-07-12",
+        "operator": "PT Kereta Api Indonesia (Persero), Divisi LRT Jabodebek",
+        "railway": "light_rail",
+        "railway:track_ref": "2",
+        "usage": "main",
+        "voltage": "750",
+        "website": "https://adhi.co.id/projects/lrt-jabodebek/",
+        "wikidata": "Q20427104",
+        "wikipedia": "id:LRT Jabodebek"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.872859,
+            -6.2463535
+          ],
+          [
+            106.8723757,
+            -6.2462225
+          ],
+          [
+            106.8712235,
+            -6.245926
+          ],
+          [
+            106.8707509,
+            -6.2457963
+          ],
+          [
+            106.8705317,
+            -6.245735
+          ],
+          [
+            106.8703778,
+            -6.2456861
+          ],
+          [
+            106.8701555,
+            -6.2456107
+          ],
+          [
+            106.8700338,
+            -6.2455669
+          ],
+          [
+            106.8697709,
+            -6.2454609
+          ]
+        ]
+      },
+      "id": "way/1364419054"
+    }
+  ]
+}
