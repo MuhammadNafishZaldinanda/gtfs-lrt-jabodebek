@@ -85,7 +85,7 @@ gtfs_lrt_jabodebek/
 | Email | cs@kai.id |
 | Lin | Lin Bekasi - Lin Cibubur |
 | Kode Lin | Lin Bekasi (BK) - Lin Cibubur (CB) |
-| Warna Lin | <img src="assets/LRT_Jabodebek_BK_Line_icon.png" width="30" height="30"> ![BK](https://img.shields.io/badge/GREEN_LINE-0E6938?style=flat-square&logoColor=white)   |
+| Warna Lin | <img src="assets/LRT_Jabodebek_BK_Line_icon.png" width="30" height="30"> ![BK](https://img.shields.io/badge/GREEN_LINE-0E6938?style=flat-square&logoColor=white) <img src="assets/LRT_Jabodebek_CB_Line_icon.png" width="30" height="30"> ![BK](https://img.shields.io/badge/BLUE_LINE-20409A?style=flat-square&logoColor=white)  |
 | Depo | Jati Mulya |
 | Terminus Lin Bekasi | Stasiun Dukuh Atas Bank Syariah Indonesia [BK01] (Barat) - Stasiun Jati Mulya [BK14] (Timur)  |
 | Terminus Lin Cibubur | Stasiun Dukuh Atas Bank Syariah Indonesia [CB01] (Utara) - Stasiun Harjamukti [CB12] (Selatan) |
