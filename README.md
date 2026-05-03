@@ -85,7 +85,7 @@ gtfs_lrt_jabodebek/
 | Email | cs@kai.id |
 | Lin | Lin Bekasi - Lin Cibubur |
 | Kode Lin | Lin Bekasi (BK) - Lin Cibubur (CB) |
-| Warna Lin | <img src="assets/LRT_Jabodebek_BK_Line_icon.png" width="30" height="30"> ![BK](https://img.shields.io/badge/GREEN_LINE-0E6938?style=flat-square&logoColor=white) <img src="assets/LRT_Jabodebek_CB_Line_icon.png" width="30" height="30"> ![BK](https://img.shields.io/badge/BLUE_LINE-20409A?style=flat-square&logoColor=white)  |
+| Warna Lin | <img src="assets/LRT_Jabodebek_BK_Line_icon.png" width="30" height="30"> ![BK](https://img.shields.io/badge/GREEN_LINE-0E6938?style=flat-square&logoColor=white) <img src="assets/LRT_Jabodebek_CB_Line_icon.png" width="30" height="30"> ![CB](https://img.shields.io/badge/BLUE_LINE-20409A?style=flat-square&logoColor=white)  |
 | Depo | Jati Mulya |
 | Terminus Lin Bekasi | Stasiun Dukuh Atas Bank Syariah Indonesia [BK01] (Barat) - Stasiun Jati Mulya [BK14] (Timur)  |
 | Terminus Lin Cibubur | Stasiun Dukuh Atas Bank Syariah Indonesia [CB01] (Utara) - Stasiun Harjamukti [CB12] (Selatan) |
@@ -225,7 +225,7 @@ gtfs_lrt_jabodebek/
       <td>DKA</td>
       <td>CB01</td>
       <td rowspan="12" align="center">
-        <img src="assets/LRT_Jabodebek_CB_Line_Icon.png" width="30" height="30">
+        <img src="assets/LRT_Jabodebek_CB_Line_icon.png" width="30" height="30">
         <img src="https://img.shields.io/badge/CIBUBUR_LINE-20409A?style=flat-square&logoColor=white">
       </td>
     </tr>
@@ -337,7 +337,7 @@ Data jadwal hasil pengelompokan tersedia di [`data/jadwal-keberangkatan/`](data/
       <td>Jati Mulya</td>
       <td align="center">107</td>
       <td rowspan="3" align="center">
-        <img src="assets/LRT_Jabodebek_BK_Line_Icon.png" width="30" height="30"><br>
+        <img src="assets/LRT_Jabodebek_BK_Line_icon.png" width="30" height="30">
         <img src="https://img.shields.io/badge/BEKASI_LINE-0E6938?style=flat-square&logoColor=white">
       </td>
     </tr>
@@ -376,7 +376,7 @@ Data jadwal hasil pengelompokan tersedia di [`data/jadwal-keberangkatan/`](data/
       <td>Harjamukti</td>
       <td align="center">108</td>
       <td rowspan="3" align="center">
-        <img src="assets/LRT_Jabodebek_CB_Line_Icon.png" width="30" height="30"><br>
+        <img src="assets/LRT_Jabodebek_CB_Line_icon.png" width="30" height="30">
         <img src="https://img.shields.io/badge/CIBUBUR_LINE-20409A?style=flat-square&logoColor=white">
       </td>
     </tr>
@@ -418,7 +418,7 @@ Data jadwal hasil pengelompokan tersedia di [`data/jadwal-keberangkatan/`](data/
       <td>Jati Mulya</td>
       <td align="center">67</td>
       <td rowspan="3" align="center">
-        <img src="assets/LRT_Jabodebek_BK_Line_Icon.png" width="30" height="30"><br>
+        <img src="assets/LRT_Jabodebek_BK_Line_icon.png" width="30" height="30">
         <img src="https://img.shields.io/badge/BEKASI_LINE-0E6938?style=flat-square&logoColor=white">
       </td>
     </tr>
@@ -457,7 +457,7 @@ Data jadwal hasil pengelompokan tersedia di [`data/jadwal-keberangkatan/`](data/
       <td>Harjamukti</td>
       <td align="center">67</td>
       <td rowspan="3" align="center">
-        <img src="assets/LRT_Jabodebek_CB_Line_Icon.png" width="30" height="30"><br>
+        <img src="assets/LRT_Jabodebek_CB_Line_icon.png" width="30" height="30">
         <img src="https://img.shields.io/badge/CIBUBUR_LINE-20409A?style=flat-square&logoColor=white">
       </td>
     </tr>
@@ -652,7 +652,7 @@ Data ini merepresentasikan geometri jalur LRT Jabodebek Lin Bekasi dan Lin Cibub
         </a>
       </td>
       <td rowspan="2" align="center">
-        <img src="assets/LRT_Jabodebek_BK_Line_Icon.png" width="30" height="30"><br>
+        <img src="assets/LRT_Jabodebek_BK_Line_icon.png" width="30" height="30">
         <img src="https://img.shields.io/badge/BEKASI_LINE-0E6938?style=flat-square&logoColor=white">
       </td>
     </tr>
@@ -687,7 +687,7 @@ Data ini merepresentasikan geometri jalur LRT Jabodebek Lin Bekasi dan Lin Cibub
         </a>
       </td>
       <td rowspan="2" align="center">
-        <img src="assets/LRT_Jabodebek_CB_Line_Icon.png" width="30" height="30"><br>
+        <img src="assets/LRT_Jabodebek_CB_Line_icon.png" width="30" height="30">
         <img src="https://img.shields.io/badge/CIBUBUR_LINE-20409A?style=flat-square&logoColor=white">
       </td>
     </tr>
