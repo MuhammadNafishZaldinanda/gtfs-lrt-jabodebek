@@ -121,7 +121,7 @@ gtfs_lrt_jabodebek/
       <td>DKA</td>
       <td>BK01</td>
       <td rowspan="14" align="center">
-        <img src="assets/LRT_Jabodebek_BK_Line_Icon.png" width="30" height="30"><br>
+        <img src="assets/LRT_Jabodebek_BK_Line_icon.png" width="30" height="30">
         <img src="https://img.shields.io/badge/BEKASI_LINE-0E6938?style=flat-square&logoColor=white">
       </td>
     </tr>
@@ -225,7 +225,7 @@ gtfs_lrt_jabodebek/
       <td>DKA</td>
       <td>CB01</td>
       <td rowspan="12" align="center">
-        <img src="assets/LRT_Jabodebek_CB_Line_Icon.png" width="30" height="30"><br>
+        <img src="assets/LRT_Jabodebek_CB_Line_Icon.png" width="30" height="30">
         <img src="https://img.shields.io/badge/CIBUBUR_LINE-20409A?style=flat-square&logoColor=white">
       </td>
     </tr>
